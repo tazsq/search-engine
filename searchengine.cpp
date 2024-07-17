@@ -12,7 +12,7 @@ struct ret_word;
 
 linkedList* table[200]={nullptr};
 
-vector<string> documents={"1.txt","2.txt","3.txt"};
+vector<string> documents={"1.txt","2.txt","3.txt","4.txt"};
 
 
 /*
